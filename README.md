@@ -7,8 +7,5 @@ A simplistic form with inputs shown one at a time. Inspired by the form seen on 
 
 [Demo](http://tympanus.net/Development/MinimalForm/)
 
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
 
-Read more here: [License](http://tympanus.net/codrops/licensing/)
 
-[© Codrops 2013](http://www.codrops.com)
